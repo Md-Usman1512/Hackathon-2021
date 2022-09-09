@@ -6,4 +6,4 @@ The prototype uses C# & Winforms.
   - Extract the zip `hackathon_winforms.zip`
   - Inside the extraced zip folder go to the file path `hackathon_winforms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug`
   - At that file path a `.exe` file should be present labelled `WindowsFormsApp1.exe`
-  - Run `WindowsFormsApp1.exe` 
+  - Run `WindowsFormsApp1.exe` .  
